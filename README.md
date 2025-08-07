@@ -14,3 +14,8 @@ This project is used to test the GitHub integration flow for SandboxAgent.
 4. Creates a new branch and pushes changes
 5. SandboxAgent retrieves changes and merges to main
 
+## 😄 Developer Fun Corner
+
+**Why do programmers prefer dark mode?**
+Because light attracts bugs! 🐛
+
